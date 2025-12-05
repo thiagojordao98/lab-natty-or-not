@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lab-natty-or-not/static/css/main.4cafedaa.css",
+    "main.js": "/lab-natty-or-not/static/js/main.eb901846.js",
+    "index.html": "/lab-natty-or-not/index.html",
+    "main.4cafedaa.css.map": "/lab-natty-or-not/static/css/main.4cafedaa.css.map",
+    "main.eb901846.js.map": "/lab-natty-or-not/static/js/main.eb901846.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cafedaa.css",
+    "static/js/main.eb901846.js"
+  ]
+}
