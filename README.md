@@ -1,5 +1,10 @@
 # 🎨 Natty or Not? - Desafio de Autenticidade com IA
 
+[![Deploy Status](https://github.com/thiagojordao98/lab-natty-or-not/actions/workflows/deploy.yml/badge.svg)](https://github.com/thiagojordao98/lab-natty-or-not/actions/workflows/deploy.yml)
+[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://thiagojordao98.github.io/lab-natty-or-not)
+
+## 🎮 [Jogue Agora!](https://thiagojordao98.github.io/lab-natty-or-not)
+
 ## 📒 Descrição
 
 Um **jogo interativo web** desenvolvido em **React + TypeScript** que desafia jogadores a identificar se uma imagem foi criada por um humano ou gerada por Inteligência Artificial.
