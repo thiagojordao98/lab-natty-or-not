@@ -90,20 +90,23 @@ Este projeto mergulha na temática central do Lab DIO: **"Natty or Not?"** - que
 - ⚡ Feedback visual instantâneo
 - 🎨 Gradientes e animações CSS
 
-### Screenshot do Jogo:
+### 📸 Screenshots do Jogo:
 
-```
-┌──────────────────────────────────┐
-│   🎨 Natty or Not? 🤖           │
-│   Desafio de Autenticidade com IA│
-│                                  │
-│   [Imagem sendo analisada]       │
-│                                  │
-│   🤖 Sim, é IA  📷 Não, é Real  │
-│                                  │
-│   Pontuação: 3/5                │
-└──────────────────────────────────┘
-```
+**Menu Inicial**
+
+![Menu Inicial](.github/screenshots/menu.png)
+
+**Fase 1 - Identificação Individual**
+
+![Fase 1](.github/screenshots/fase1.png)
+
+**Fase 2 - Comparação Lado a Lado**
+
+![Fase 2](.github/screenshots/fase2.png)
+
+**Tela de Resultados**
+
+![Resultados](.github/screenshots/resultados.png)
 
 ## 💭 Reflexão
 
